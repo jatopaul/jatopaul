@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jatopaul98@gmail.com**
 - 
-- ⚡ Fun fact **I enjoy watching series......**
+- ⚡ Fun fact **I enjoy watching series.......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
