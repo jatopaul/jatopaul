@@ -10,7 +10,7 @@
 - 📫 Someof my works **(https://avatar2officaljp.web.app/)**
 
 - 📫 How to reach me **jatopaul98@gmail.com**
-- 
+
 - ⚡ Fun fact **I enjoy watching series.......**
 
 <h3 align="left">Connect with me:</h3>
