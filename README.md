@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jato Paul</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Avatar](https://avatar2officaljp.web.app/)
-
-- 🌱 I’m currently learning **Angular, Javascript, C#,.Net framwork**
+- 🌱 I’m currently working on **Angular, Javascript, C#,.Net framwork**
 
 - 💬 Ask me about ** CSS, Angular and  about Photography, videography & Music.**
 
